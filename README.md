@@ -1,4 +1,4 @@
-# Java-Download-Link-Generator
+# Java Download Link Generator
 Download Java from Oracle without login
 
 ### **How to generate link for the future update:**
